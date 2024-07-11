@@ -1,0 +1,2 @@
+# Automated-Evaluation-of-Handwritten-Answer-Scripts-final-year-project-
+The development and implementation of an automated evaluation system for handwritten answer scripts marks a significant advancement in education assessment. By utilising machine learning algorithms and computer vision techniques, this project effectively addresses the challenges of manual evaluation including time constraints and sub baises
